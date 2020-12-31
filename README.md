@@ -1,3 +1,5 @@
 # kahoot-bot
 
-get 100% in a kahoot quiz!
+Get 100% in a kahoot quiz!
+
+(based off of [@sampoder](https://github.com/sampoder) workshop)
